@@ -1,0 +1,13 @@
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\bin\Debug\csharp calculator.exe.config
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\bin\Debug\csharp calculator.exe
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\bin\Debug\csharp calculator.pdb
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\obj\Debug\csharp calculator.csprojResolveAssemblyReference.cache
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\obj\Debug\csharp_calculator.Properties.Resources.resources
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\obj\Debug\csharp calculator.csproj.GenerateResource.Cache
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\obj\Debug\csharp calculator.exe
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\obj\Debug\csharp calculator.pdb
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\obj\Debug\csharp_calculator.calculator.resources
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\bin\Debug\csharp calculator.exe.manifest
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\bin\Debug\csharp calculator.application
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\obj\Debug\csharp calculator.exe.manifest
+c:\users\joeco_000\documents\visual studio 2015\Projects\csharp calculator\csharp calculator\obj\Debug\csharp calculator.application
